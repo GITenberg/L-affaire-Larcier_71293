@@ -1,0 +1,33 @@
+_repo: L-affaire-Larcier_71293
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Tristan
+    alias: Bernard, Paul
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '55824'
+    url: http://www.gutenberg.org/2009/agents/55824
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tristan_Bernard
+    - https://fr.wikipedia.org/wiki/Tristan_Bernard
+description: ''
+gutenberg_issued: '2023-07-29'
+identifiers:
+  gutenberg: '71293'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bd6t53809959
+pgterms:marc905: 20230128065406bernard
+pgterms:marc906: '1907'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel, Chuck Greif and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bErnest Flammarion, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'affaire Larcier
+url: http://www.gutenberg.org/ebooks/71293
